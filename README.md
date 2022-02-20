@@ -15,7 +15,11 @@ An alternative product to our products is www.netacad.com. The difference is tha
 Our goal is to create a website for learning Computer networks. The site will have educational materials, laboratory work and quizzes.
 
 ## Technologies
-In our project we use **Laravel**, **VueJS**
+In our project we use 
+Database Management System-MySQL
+Backend- Java Spring Boot
+Frontend - HTML, CSS, Angular(Typescript, JavaScript)
+
 
 ## Pages / Activities 
 We will have following pages:
@@ -44,6 +48,17 @@ Our programs teach the skills and disciplines necessary for learning.
 |Education|University(in progress)|
 |Location|Kaskelen|
 |Objective|Aqerke studying in 3 course.She needs this website to learning Cisco Networking.|
+
+*User 2*  
+|User type|Website User|
+|---|---|
+|Occupation|Student|
+|Name|Arman|
+|Gender|male|
+|Age|20|
+|Education|University(in progress)|
+|Location|Kaskelen|
+|Objective|He didn't understand the lesson in the first semester and got a retake. This semester he wants to prepare for this lesson and close the retake.|
 
 
 ## User stories
