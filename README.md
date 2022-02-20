@@ -16,9 +16,9 @@ Our goal is to create a website for learning Computer networks. The site will ha
 
 ## Technologies
 In our project we use 
-Database Management System-MySQL
-Backend- Java Spring Boot
-Frontend - HTML, CSS, Angular(Typescript, JavaScript)
+*Database Management System-MySQL*
+*Backend- Java Spring Boot*
+*Frontend - HTML, CSS, Angular(Typescript, JavaScript)*
 
 
 ## Pages / Activities 
