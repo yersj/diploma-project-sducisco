@@ -63,10 +63,10 @@ Our programs teach the skills and disciplines necessary for learning.
 
 ## User stories
 
- -Ayan has retake from Computer Networks. Now he is upgrading his Computer Networks using this site.
- -Berik wants to work on computer network sphere and now he is developing his knowledge using this site.
- -Daulet is cisco teacher. To teach students, he takes tasks and presentations from this site.
- -Beknur got ready to final exams solving tasks and watching presentations on this site.
+ +Ayan has retake from Computer Networks. Now he is upgrading his Computer Networks using this site.
+ +Berik wants to work on computer network sphere and now he is developing his knowledge using this site.
+ +Daulet is cisco teacher. To teach students, he takes tasks and presentations from this site.
+ +Beknur got ready to final exams solving tasks and watching presentations on this site.
 
 
 ## Sitemap, Page descriptions
