@@ -5,7 +5,7 @@
 + **Yersultan Amangeldi** (*190103496*)- Backend Developer 
 
 ## Project
-This project is yet-another clone of Instagram
+SDUcisco 
 
 ## Alternatives / Market research
 An alternative product to our products is www.netacad.com. The difference is that our main audience is students of our university, and we have materials only for the subject Computer Networks 1 and 2.
@@ -23,22 +23,18 @@ In our project we use
 
 ## Pages / Activities 
 We will have following pages:
-- Latest posts of friends
-- Posts from location of user
-- Take a photo page
-- Personal page
-- Settings page
+- Home page
+- Login page
+- Main page
+- Labs page
+- Course page
 
 ## Goals
-* What is the purpose of this project?
+**What is the purpose of this project?** Our goal is to create a website for learning Computer networks. The site will have educational materials, laboratory work and quizzes.
 
-* What are the problems it will solve?
-- Currently, at the university, we use the official Cisco netacad websites for training. And the answers of laboratory work and quizzes are on the Internet. We want to create laboratories for students to solve problems themselves and solve quizzes to attach their knowledge.
+**What are the problems it will solve?** Currently, at the university, we use the official Cisco netacad websites for training. And the answers of laboratory work and quizzes are on the Internet. We want to create laboratories for students to solve problems themselves and solve quizzes to attach their knowledge.
 
-* How will it streamline or improve the current process or facilitate a new process?
-
-* What is the product vision?
-- Our programs teach the skills and disciplines necessary for learning.
+**What is the product vision?** Our programs teach the skills and disciplines necessary for learning.
 
 ## User Personas
 *User 1*  
