@@ -16,9 +16,9 @@ Our goal is to create a website for learning Computer networks. The site will ha
 
 ## Technologies
 In our project we use 
- -Database Management System-MySQL
- -Backend- Java Spring Boot
- -Frontend - HTML, CSS, Angular(Typescript, JavaScript)
+ - Database Management System-MySQL
+ - Backend- Java Spring Boot
+ - Frontend - HTML, CSS, Angular(Typescript, JavaScript)
 
 
 ## Pages / Activities 
@@ -31,11 +31,14 @@ We will have following pages:
 
 ## Goals
 * What is the purpose of this project?
+
 * What are the problems it will solve?
--Currently, at the university, we use the official Cisco netacad websites for training. And the answers of laboratory work and quizzes are on the Internet. We want to create laboratories for students to solve problems themselves and solve quizzes to attach their knowledge.
+- Currently, at the university, we use the official Cisco netacad websites for training. And the answers of laboratory work and quizzes are on the Internet. We want to create laboratories for students to solve problems themselves and solve quizzes to attach their knowledge.
+
 * How will it streamline or improve the current process or facilitate a new process?
+
 * What is the product vision?
-Our programs teach the skills and disciplines necessary for learning.
+- Our programs teach the skills and disciplines necessary for learning.
 
 ## User Personas
 *User 1*  
@@ -63,10 +66,10 @@ Our programs teach the skills and disciplines necessary for learning.
 
 ## User stories
 
- +Ayan has retake from Computer Networks. Now he is upgrading his Computer Networks using this site.
- +Berik wants to work on computer network sphere and now he is developing his knowledge using this site.
- +Daulet is cisco teacher. To teach students, he takes tasks and presentations from this site.
- +Beknur got ready to final exams solving tasks and watching presentations on this site.
+ + Ayan has retake from Computer Networks. Now he is upgrading his Computer Networks using this site.
+ + Berik wants to work on computer network sphere and now he is developing his knowledge using this site.
+ + Daulet is cisco teacher. To teach students, he takes tasks and presentations from this site.
+ + Beknur got ready to final exams solving tasks and watching presentations on this site.
 
 
 ## Sitemap, Page descriptions
@@ -74,13 +77,13 @@ Our programs teach the skills and disciplines necessary for learning.
 *Display sitemap here*
 
 ## Non-Functional requirements
- -Target audience : SDU, pupils 
- -The application should work in all modern browsers
- -The application should be responsive (work well and look good on all screen sizes).*
+ + Target audience : SDU, pupils 
+ + The application should work in all modern browsers
+ + The application should be responsive (work well and look good on all screen sizes).
 
 ## Risks
--Our predictive recommendation engine, a key differentiator, may be difficult to code
--We may not arrive on time for various reasons
++ Our predictive recommendation engine, a key differentiator, may be difficult to code
++ We may not arrive on time for various reasons
 
 ## Mockups, Wireframes
 *Put here images of your wireframes*
