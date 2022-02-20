@@ -35,6 +35,16 @@ Our programs teach the skills and disciplines necessary for learning.
 
 ## User Personas
 *User 1*  
+|User type|Website User|
+|---|---|
+|Occupation|Student|
+|Name|Aqerke|
+|Gender|Female|
+|Age|21|
+|Education|University(in progress)|
+|Location|Kaskelen|
+|Objective|Aqerke studying in 3 course.She needs this website to learning Cisco Networking.|
+
 
 ## User stories
 
