@@ -28,6 +28,8 @@ We will have following pages:
 - Main page
 - Labs page
 - Course page
+- Test page
+- Profile
 
 ## Goals
 **What is the purpose of this project?** Our goal is to create a website for learning Computer networks. The site will have educational materials, laboratory work and quizzes.
