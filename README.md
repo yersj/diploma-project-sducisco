@@ -28,7 +28,6 @@ We will have following pages:
 - Main page
 - Labs page
 - Course page
-- Test page
 - Profile
 
 ## Goals
