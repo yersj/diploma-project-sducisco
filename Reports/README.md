@@ -9,8 +9,8 @@
 |Week #8|PM report. Weekly meeting with members|Create design in figma for course (which includes subpages such as level selection and lecture and video lecture) web pages, implement created design using ReactJS and connect with backend|Starting local server|
 |Week #9|PM report. Weekly meeting with members.Cheaking the work each members.|Create design in figma for course (which includes subpages such as level selection and lecture and video lecture) web pages, implement created design using ReactJS and connect with backend|Migrations|
 |Week #10|PM report. Weekly meeting with members.Testing|Create design in figma for Labs web page, implement created design using ReactJS and connect with backend|Working on sign in page|
-|Week #11|PM report. Weekly meeting with members.Testing|Create design in figma for Test web page, implement created design using ReactJS and connect with backend|Working on lab page and other page|
-|Week #12|PM report. Weekly meeting with members.Testing|Create design in figma for profile web page, implement created design using ReactJS and connect with backend|Project implements|
+|Week #11|PM report. Weekly meeting with members.Testing|Create design in figma for Test web page, implement created design using ReactJS and connect with backend|Working on lab page|
+|Week #12|PM report. Weekly meeting with members.Testing|Create design in figma for profile web page, implement created design using ReactJS and connect with backend|Working on other page|
 |Week #13|PM report. Weekly meeting with members.Cheaking the work each members.|Testing, debugging, improving existing design, adding additional functionality|Project implements|
-|Week #14|PM report. Weekly meeting with members|Testing, debugging, improving existing design, adding additional functionality|Yersultan|
+|Week #14|PM report. Weekly meeting with members|Testing, debugging, improving existing design, adding additional functionality|Projectimplements|
 |Week #15|Final testing|Project defense|Project defense|
