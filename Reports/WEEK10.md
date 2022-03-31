@@ -1,7 +1,7 @@
 # Bekzat Seraliyev
-* Made Home and Main pages
+* Made design of Lab page
 * 
-* Learned Jquery and some css's methods
+* Learned some css's methods and some jquery's methods
 # Jacky Chan
 * Learn kung-fu
 * Invented kung-fu
