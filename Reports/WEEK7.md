@@ -1,5 +1,5 @@
 # Bekzat Seraliyev
-* Made Home and Main pages
+* Made Home  page
 * Learned Jquery and apply it in Html
 # Jacky Chan
 * Learn kung-fu
