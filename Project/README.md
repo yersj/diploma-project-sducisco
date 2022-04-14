@@ -1,4 +1,3 @@
 # EXECUTION
 Run following command:
-> npm install
-> npm run start
+> https://github.com/yersj/academy-cisco 
